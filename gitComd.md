@@ -30,5 +30,9 @@
 
     ### 	--soft参数 只同步本地库
 
-12. ###  
+12. ###  git删除文件的过程 ，rm删除本地文件，add 被删除的文件，commit，完成删除
+
+13. ### git diff filename ： 查看单独文件工作区与缓存区版本差异，不加filename参数 则表   示比对所有暂存区和工作区的差异
+
+14. ### git diff HEAD(版本id)  fileName(cache)  :查看本地仓库与缓存区的版本差异
 
